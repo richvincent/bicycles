@@ -1,0 +1,7 @@
+'model_name','model_description','cost_to_produce','weight','quantity'
+'mntbikeblue','Blue Mountain Bike',130.0,6.9,9.0
+'mntbikeblack','Black Mountain Bike',130.0,6.9,10.0
+'strbikegrey','Grey Street Bike',282.0,6.9,10.0
+'strbikeslv','Silver Street Bike',282.0,6.9,10.0
+'hybbikeorange','Orange Hybrid Bike',496.0,6.9,9.0
+'hybbikegreen','Green Hybrid Bike',496.0,6.9,10.0
